@@ -1,5 +1,5 @@
 # Azure-Tipos-De-Serviços-resumo-do-lab
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab "Tpos de Serviço" na DIO
+Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab "Tipos de Serviço" na DIO
 
 ### Tópicos Abordados no Lab:
 
